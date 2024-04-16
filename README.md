@@ -1,4 +1,4 @@
-# CASIO Classwiz Modified font
+# CASIO Classwiz Extended and modified font
 
 Well it is not actually modified font with extended codepoints, I put more codepoint for some missing codepoint
 

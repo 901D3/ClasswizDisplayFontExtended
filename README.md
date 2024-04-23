@@ -1,6 +1,6 @@
 # CASIO Classwiz Extended and modified font
 
-Well it is not actually modified font with extended codepoints, I put more codepoint for some missing codepoint
+Well it is not actually modified font, I put more codepoint for some missing codepoint
 
 The original is from [Wenti-D](https://github.com/Wenti-D/ClasswizDisplayFont)
 
